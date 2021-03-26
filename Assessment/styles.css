@@ -1,0 +1,181 @@
+/*First Nav Bar*/
+.pre-header {
+    background: black;
+    width: 100%;
+}
+
+.col-left li {
+    float: left;
+    margin: 25px;
+    list-style: none;
+}
+
+.col-left li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.col-right li {
+    float: right;
+    margin: 25px;
+    list-style: none;
+}
+
+.col-right li a {
+    color: #e5e4e2;
+    text-decoration: none;
+}
+
+.col-right li i {
+    color: #e5e4e2;
+    margin-left: 4px;
+}
+/* End First Nav Bar*/
+
+/*Second Nav Bar*/
+.navbar-light .navbar-brand {
+    color: rgba(2, 2, 2, 0.9);
+}
+
+.navbar-brand button {
+    padding: 0px 20px 0px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #e5e4e2;
+}
+
+.navbar-nav .col-right li {
+    float: right;
+    margin: 5px;
+    list-style: none;
+    padding-left: 100px;
+}
+
+.third-line li {
+    float: inline-end;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+/*End of Second Nav Bar*/
+
+/*Hero Session*/
+.col-lg {
+    background-color: #e5e4e2;
+    height: 500px;
+}
+
+.image-word {
+    padding-top: 200px;
+    margin: 0px auto;
+    position: relative;
+
+}
+h1 {
+    margin: 0px auto;
+    position: center;
+}
+
+.hero-btn {
+    text-decoration: none;
+    padding: .3rem .8rem;
+    font-size: 1.25rem;
+    border-radius: .1rem;
+}
+/*End of Hero Session*/
+
+/*Marketing Session*/
+.marketing-row {
+    padding-bottom: 30px;
+    margin: 40px;
+}
+
+.marketing-col {
+    background-color: #e5e4e2;
+    padding: 10px;
+    margin: 12px;
+    height: 300px;
+    width: 350px;
+}
+
+.marketing-width {
+    background-color: #e5e4e2;
+    padding: 10px;
+    margin: 12px;
+    height: 300px;
+    width: 470px;
+}
+
+.mkt-first-btn {
+    text-decoration: none;
+    margin-top: 215px;
+    margin-right: 40px;
+    float: right;
+    font-size: 1rem;
+    background-color: #fff;
+    border-radius: .3rem;
+    border-color: #fff;
+    font-family: Arial;
+    padding: .5rem 1rem;
+}
+
+.mkt-second-btn {
+    text-decoration: none;
+    margin-top: 215px;
+    font-size: 1rem;
+    background-color: #fff;
+    border-radius: .3rem;
+    border-color: #fff;
+    font-family: Arial;
+    padding: .3rem .8rem;
+}
+/*End Marketing Session*/
+
+.pre-footer {
+    height: 70px;
+    background-color: #e5e5e271;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+/*Featured Product Session*/
+.custom-col-lg-2 {
+    background-color: #e5e4e2;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: .1rem .2rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    background-color: #fff;
+}
+
+.icon-section {
+    background-color: #fff;
+    width: 160px;
+    margin-top: 230px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-row {
+    padding: 0px 40px;
+}
+
+span p {
+    margin-top: 40px;
+}
+
+.load-more-btn {
+    text-decoration: none;
+    background-color: black;
+    margin-top: 50px;
+}
+/*End of Featured Product Session*/
